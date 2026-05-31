@@ -1,0 +1,2 @@
+# Cyber-Risk-Assessment-and-Secure-Network-Design
+This project simulates a cybersecurity assessment engagement for a mid-sized enterprise. The objective was to identify security risks within the organization's network infrastructure and implement security controls to reduce the attack surface and protect critical business resources. The network was designed and simulated using Cisco Packet Tracer.
